@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<florarie>
+<floare name="Trandafir" pret="15" culoare="rosu"> </floare>
+<floare name="Liliac" pret="10" culoare="mov"/> 
+<floare name="Ghiocel" pret="5" culoare="verde"> </floare>
+
+
+
+</florarie>

@@ -1,0 +1,57 @@
+{
+
+
+    "all" : [
+        {
+       
+            "prenume":"Alin",
+    
+            "numeDeFamilie":"Holteiu",
+            "carnetDeStudent":"null",
+            "anulNasterii":1997,
+            "anistudiu" : [
+                1998, 2008
+            ],
+            "specializare":[
+                {
+                    "denumire":"Inginerie",
+                    "prescurtare":"IMST"
+                },
+                {
+                    "denumire":"Inginerie",
+                    "prescurtare":"IMST"
+                },
+                {
+                    "denumire":"Inginerie",
+                    "prescurtare":"IMST"
+                }
+                
+    
+            ]
+                
+         
+        
+    
+    },
+    
+    {
+        
+            "prenume":"Alin",
+            
+            "numeDeFamilie":"Holteiu",
+            "carnetDeStudent":"null",
+            "anulNasterii":1997,
+            "specializare":{
+                "denumire":"Inginerie",
+                "prescurtare":"IMST"
+            }
+        
+    
+    }]
+    
+}
+
+
+
+
+
